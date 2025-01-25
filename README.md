@@ -4,32 +4,27 @@ Welcome to my Web Development Portfolio! This repository showcases my skills and
 
 ## 🌟 Skills
 
-### 1. **HTML**
-- I use HTML to structure web pages with elements like headings, paragraphs, lists, and forms.
+### 1. **React.js**
+- I am learning React.js to build dynamic, single-page applications. React helps me manage the content and UI efficiently, making development faster and more modular.
 
-### 2. **CSS**
-- I style web pages with CSS to make them look attractive. I use colors, fonts, and layouts to design responsive web pages.
+### 1. **Tailwind CSS**
+- I use Tailwind CSS to create custom, responsive designs with utility-first classes, providing flexibility and consistency in styling my applications.
 
-### 3. **JavaScript**
-- I use JavaScript to make web pages interactive, like adding click events or updating content without reloading the page.
+### 1. **Bootstrap**
+- I use Bootstrap to quickly build responsive websites with pre-designed components like buttons, navigation bars, and forms, ensuring a polished UI with minimal effort.
 
-### 4. **Responsive Design (Media Queries)**
-- I use media queries to make sure web pages look good on different devices, like phones, tablets, and computers.
+### 1. **Redux Toolkit**
+- I am learning Redux Toolkit to simplify state management in my React applications, enabling me to handle complex state interactions more predictably and efficiently.
 
-### 5. **Bootstrap**
-- I use Bootstrap to quickly build responsive websites with ready-made components like buttons, navigation bars, and forms.
+### 1. **Node.js**
+- I use Node.js to build server-side applications, creating scalable and efficient backend services for my web projects.
 
-### 6. **React.js**
-- I am learning React.js to build dynamic, single-page applications. React helps me manage the content on the page in a more efficient way.
+### 1. **Express.js**
+- I use Express.js, a minimal and flexible Node.js framework, to design and implement RESTful APIs and server-side logic.
 
-### 6. **Redux Toolkit**
-- I am learning Redux Toolkit to efficiently manage the state in my React applications, making complex state interactions simpler and more predictable.
+### 1. **MongoDB**
+- I use MongoDB, a NoSQL database, to store and manage data in a flexible, document-oriented format, making it ideal for modern web applications.
 
-## 📂 Project
-
-###  **E-Commerce_Cart**
-- **Technologies:** React, Bootstrap Media Queries, Redux Toolkit
-- **Description:** This project is a headphone e-commerce cart website built using React and Redux Toolkit (RTK). The website allows users to browse a selection of headphones and add their preferred items to the cart. The project also includes media queries to ensure a smooth experience on both desktop and mobile devices.
 
 ## 📞 Contact Me
 
